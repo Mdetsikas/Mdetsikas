@@ -1,72 +1,53 @@
 ## Hey, I'm Mathew 👋
 
-I'm a systems and infrastructure enthusiast with a strong interest in
-how production environments are designed, secured, and automated.
+I'm a System Administrator and infrastructure enthusiast with a strong interest in how production environments are designed, secured, and automated.
 
-My work spans both **professional environments** and a **personal home lab**
-where I intentionally experiment, break things, and document what I learn. 
-This GitHub serves as a place to document my learning and growth as 
-I continue building hands-on infrastructure experience.
+My work spans both **professional enterprise environments** and a **personal home lab** where I intentionally experiment, break things, and document the repair process. This GitHub serves as a technical journal of my growth as I build hands-on infrastructure experience.
 
 ---
 
-## Areas of Focus
+## 🛠️ Areas of Focus & Tech Stack
 
-- Home lab architecture & virtualization
-- Network automation and segmentation
-- Containerization (Docker)
-- Observability and monitoring
-- Security-first infrastructure design
-
----
-
-## Professional Experience (Work Environment)
-
-- 🧩 Kubernetes (k8s)  
-  My exposure to Kubernetes comes from a **work environment**, where I interact
-  with existing clusters rather than running them as a personal lab.
-
-  This has given me experience with:
-  - Understanding cluster architecture and workloads
-  - Working within established security and access constraints
-  - Supporting services rather than treating Kubernetes as a playground
-
-  I intentionally keep my **personal lab separate** from work infrastructure.
+- **Core Infrastructure:** Windows Server 2022, Active Directory, DNS/DHCP, WSUS
+- **Virtualization:** Proxmox, VMware, Hyper-V
+- **Automation:** PowerShell scripting, Python, FOG Server (Imaging)
+- **Containerization:** Docker & Kubernetes concepts
+- **Observability:** Grafana, Prometheus
 
 ---
 
-## [Home Lab (Personal Projects)](https://github.com/Mdetsikas/homelab)
+## 💼 Professional Experience
 
-My home lab is a **single Proxmox host** built from repurposed gaming PC hardware.
-The goal is not raw performance, but **hands-on learning and experimentation**.
+**Primary System & Network Administrator | Local Community College Cybersecurity Building**
+I currently manage the independent IT environment for a standalone Cybersecurity education facility.
+- **Scope:** Sole administrator for servers, virtualization, backup, and user support.
+- **Key Work:** Managing Windows Server domains, automating user management via PowerShell, and overseeing imaging cycles for 125+ workstations.
 
-### Current Home Lab Focus:
-- Proxmox virtualization
-- Docker-based services
-- Internal-only dashboards and tooling
-- Monitoring and observability
+**Kubernetes Implementation (Greenfield Deployment)**
+I am currently **architecting and building a Kubernetes cluster from the ground up** for the facility.
+- **Role:** Leading the deployment rather than managing legacy infrastructure.
+- **Work:** Designing node architecture, configuring the control plane, and establishing initial security policies and network overlays.
+
+---
+
+## 🏠 [Home Lab (Personal Projects)](https://github.com/Mdetsikas/homelab)
+
+My home lab is a **single Proxmox host** built from repurposed hardware. The goal is not raw performance, but **hands-on learning and experimentation**.
 
 ### Active Projects:
-- 📊 **Internal dashboard** using Grafana
-- 📈 **Metrics & monitoring** with Prometheus
-- 🐳 **Docker-first deployments** to better understand container lifecycles
-- 🧪 Evaluating additional services as the lab grows (logging, alerting, etc.)
+- 📊 **Internal Dashboard:** Centralized monitoring using Grafana.
+- 🐳 **Docker-First Deployments:** Managing self-hosted services to understand container lifecycles.
+- 🧪 **Infrastructure Testing:** Evaluating new tools (logging, alerting) before professional implementation.
 
-Everything is treated as:
-- Documented
-- Version-controlled
-- Replaceable if broken
+*Everything in the lab is documented, version-controlled, and designed to be replaceable.*
 
 ---
 
-## Lab Philosophy
+## 🎓 Education & Certifications
 
-I treat my home lab like a scaled-down production environment:
-
-- Documentation-first (if it isn’t written down, it doesn’t exist)
-- Security by design, even for internal-only services
-- Learn fundamentals before scaling complexity
-- Break things on purpose, then fix them properly
+- **AAS in Computer Information Systems – Networking** | Whatcom Community College; December 2024
+- **BAS in IT Networking - Cybersecurity** | Whatcom Community College; December 2026
+- **Certifications:** CompTIA A+, CompTIA Network+, CompTIA Security+
 
 ---
 
@@ -76,4 +57,3 @@ This GitHub serves as:
 - A technical journal of what I’m learning
 - A portfolio of real infrastructure work
 - A place to document **why** decisions were made, not just **how**
-
