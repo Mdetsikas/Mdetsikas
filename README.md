@@ -35,7 +35,7 @@ I continue building hands-on infrastructure experience.
 
 ---
 
-## [Home Lab(Personal Projects)](Mdetsikas/homelab)
+## [Home Lab(Personal Projects)](https://github.com/Mdetsikas/homelab)
 
 My home lab is a **single Proxmox host** built from repurposed gaming PC hardware.
 The goal is not raw performance, but **hands-on learning and experimentation**.
