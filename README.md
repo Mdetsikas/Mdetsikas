@@ -14,7 +14,7 @@ I continue building hands-on infrastructure experience.
 
 - Home lab architecture & virtualization
 - Network automation and segmentation
-- Containerization (Docker) (Very new to me)
+- Containerization (Docker)
 - Observability and monitoring
 - Security-first infrastructure design
 
