@@ -6,9 +6,9 @@ My work spans both **professional enterprise environments** and a **personal hom
 
 ---
 
-## 🛠️ Areas of Focus & Tech Stack
+## 🛠️ Technical Skills
 
-- **Core Infrastructure:** Windows Server 2022, Active Directory, DNS/DHCP, WSUS
+- **Microsoft Infrastructure:** Windows Server 2022, Active Directory, DNS/DHCP + failover, WSUS
 - **Virtualization:** Proxmox, VMware, Hyper-V
 - **Automation:** PowerShell scripting, Python, FOG Server (Imaging)
 - **Containerization:** Docker & Kubernetes concepts
@@ -45,8 +45,8 @@ My home lab is a **single Proxmox host** built from repurposed hardware. The goa
 
 ## 🎓 Education & Certifications
 
-- **AAS in Computer Information Systems – Networking** | Whatcom Community College; December 2024
-- **BAS in IT Networking - Cybersecurity** | Whatcom Community College; December 2026
+- **AAS in Computer Information Systems – Networking** | Whatcom Community College (December 2024)
+- **BAS in IT Networking - Cybersecurity** | Whatcom Community College; (Expected December 2026)
 - **Certifications:** CompTIA A+, CompTIA Network+, CompTIA Security+
 
 ---
